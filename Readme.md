@@ -20,6 +20,5 @@ cd mon_repertoire
 ls -la
 echo "Branch develop"
 ehco "Modification sur branch master - feature 1 - phase 1"
-echo 'Commit non voulu"
 ```
 
