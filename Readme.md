@@ -22,3 +22,4 @@ echo "Branch develop"
 ehco "Modification sur branch master - feature 1 - phase 1"
 ```
 
+Une super cagnotte
